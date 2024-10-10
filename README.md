@@ -20,4 +20,4 @@ bin/console plugin:refresh
 
 4. Install and activate the plugin
 
-   bin/console plugin:install --activate SmartLocalRedirect
+   bin/console plugin:install --activate SmartLocaleRedirect
