@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace YourNamespace\Middleware;
+namespace SmartLocaleRedirect\Middleware;
 
 use Symfony\Component\HttpFoundation\RedirectResponse;
 use Symfony\Component\HttpKernel\Event\RequestEvent;
